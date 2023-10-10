@@ -41,7 +41,9 @@
     top: 50%;
     z-index: 99;
 }
-
+.size_incr{
+    font-size:2rem;
+}
 
 /*** Spinner ***/
 #spinner {
